@@ -11,25 +11,25 @@ const EventsSection = () => {
     {
       title: "Brunch Catering",
       description: "Delight your guests with a morning filled with fresh bakes and warm beverages.",
-      image: "https://res.cloudinary.com/dspkz3qiq/image/upload/v1753975130/front-view-packed-food-prepared-takeaway-_1_qsuyw6.png",
+      image: "https://i.pinimg.com/736x/ee/58/7f/ee587ff2032f081d9adbbbb9a2259dfb.jpg",
       message: "Hello! I’d like to inquire about brunch catering.",
     },
     {
       title: "School Events",
       description: "Perfect treats for school parties, PTA meetings, and student celebrations.",
-      image: "https://res.cloudinary.com/dspkz3qiq/image/upload/v1753975130/delicious-donuts-ai-generated_fnvwmb.png",
+      image: "https://i.pinimg.com/736x/fe/01/fa/fe01fa2a6b2e0b8fc7b239d1ae12b999.jpg",
       message: "Hi! I’m planning a school event and need catering.",
     },
     {
       title: "Office Events",
       description: "Impress clients or treat your team with our premium selection for office occasions.",
-      image: "https://res.cloudinary.com/dspkz3qiq/image/upload/v1753974967/23636885_m021t006_paper_food_box_mockup_02_zgvdob.png",
+      image: "https://i.pinimg.com/1200x/a7/8a/d9/a78ad9c39e5fb798c23745c9b16d553d.jpg",
       message: "Hi, I’d like to organize office event catering.",
     },
     {
       title: "Birthdays",
       description: "Celebrate birthdays with delicious cakes, pastries, and party packs.",
-      image: "https://res.cloudinary.com/dspkz3qiq/image/upload/v1753975128/closeup-yummy-chocolate-cookies-against-white-table_e5gnct.png",
+      image: "https://i.pinimg.com/1200x/16/0c/53/160c5316e5f620c62c189e41fcf5d1e5.jpg",
       message: "Hi! I want to plan birthday catering with you.",
     },
   ];
