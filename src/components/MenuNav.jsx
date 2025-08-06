@@ -5,11 +5,11 @@ import "swiper/css/autoplay";
 
 const navItems = [
  
-  { name: "Baked Goods", href: "#baked-goods", image:" /Pictures/American pancakes - Copy.jpg" },
-  { name: "Snacks & Crisps", href: "#snacks", image: "/Pictures/chicken sandwich - Copy.jpg" },
-  { name: "Pastries", href: "#pastries", image: "/Pictures/Vanilla cake loaf - Copy.jpg" },
-  { name: "Brunch", href: "#brunch", image:  "/Pictures/jollof rice - Copy.jpg" },
-  { name: "Sauces", href: "#sauces", image: "/Pictures/Hot Chocolate - Copy.jpg" },
+  { name: "Baked Goods", href: "#baked-goods", image:"https://i.pinimg.com/1200x/cc/ae/ab/ccaeabf7766f4f303dba162bc08c907e.jpg" },
+  { name: "Snacks & Crisps", href: "#snacks", image: "https://i.pinimg.com/736x/2b/b6/45/2bb645c22874e805163ce22b4e31729b.jpg" },
+  { name: "Pastries", href: "#pastries", image: "https://i.pinimg.com/1200x/1c/a8/3d/1ca83dc6d7543d869fd3191f67701202.jpg" },
+  { name: "Brunch", href: "#brunch", image:  "https://i.pinimg.com/1200x/dc/d0/e9/dcd0e911a644c7722fcc5aed9f3f3906.jpg" },
+  { name: "Sauces", href: "#sauces", image: "https://i.pinimg.com/1200x/31/f4/77/31f4772b80fec883dca74c46858b214a.jpg" },
 ];
 
 const MenuNav = ({ onSelect }) => {
