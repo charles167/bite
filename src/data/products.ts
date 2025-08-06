@@ -73,7 +73,7 @@ export const productsData = {
       // price: "₦1,000",
       // weight: "200g",
       rating: 4.7,
-      image: "/https://i.pinimg.com/1200x/99/3b/d0/993bd0d6060245469f26d9aaae0e393e.jpg",
+      image: "https://i.pinimg.com/1200x/9f/ef/2f/9fef2fdb3583f20ccd702d3b5a2d1beb.jpg",
     },
     {
       name: "Sweet Potato Chips",
@@ -110,7 +110,7 @@ export const productsData = {
       // price: "₦1,000",
       // weight: "5 pieces",
       rating: 4.6,
-      image: "/images/products/classic-banana-bread.jpg",
+      image: "https://i.pinimg.com/736x/39/89/30/398930795fc6e526cb991825f5ea0714.jpg",
     },
     {
       name: "Meat Pie",
@@ -269,7 +269,7 @@ export const productsData = {
       // weight: "250ml",
       rating: 4.9,
       isPopular: true,
-      image: "/images/products/classic-banana-bread.jpg",
+      image: "https://i.pinimg.com/736x/73/c8/4d/73c84df93a770108f50657de2f6b6900.jpg",
     },
     {
       name: "Reign Special Sauce",
