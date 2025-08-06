@@ -20,40 +20,46 @@ const Index = () => {
       <MenuPreviewSlider />
       
       <div id="menu" className="space-y-0">
-        <ProductSection
-          id="baked-goods"
-          title="Baked Goods"
-          // emoji="🧁"
-          products={productsData.bakedGoods}
-        />
-        
-        <ProductSection
-          id="snacks"
-          title="Snacks & Crisps"
-          // emoji="🍿"
-          products={productsData.snacks}
-        />
-        
-        <ProductSection
-          id="pastries"
-          title="Pastries"
-          // emoji="🥐"
-          products={productsData.pastries}
-        />
-        
-        <ProductSection
-          id="brunch"
-          title="Brunch & Savouries"
-          // emoji="🍳"
-          products={productsData.brunch}
-        />
-        
-        <ProductSection
-          id="sauces"
-          title="Sauces & Add-Ons"
-          // emoji="🥫"
-          products={productsData.sauces}
-        />
+       <ProductSection
+  id="baked-goods"
+  title="Baked Goods"
+  emoji="🧁"
+  description="Freshly baked cookies, loaves, and muffins straight from the oven to you."
+  products={productsData.bakedGoods}
+/>
+
+<ProductSection
+  id="snacks"
+  title="Snacks & Crisps"
+  emoji="🍿"
+  description="Crunchy, crispy, and totally irresistible  your snack cravings, sorted."
+  products={productsData.snacks}
+/>
+
+<ProductSection
+  id="pastries"
+  title="Pastries"
+  emoji="🥐"
+  description="Layered, flaky, and buttery pastries crafted with skill and love."
+  products={productsData.pastries}
+/>
+
+<ProductSection
+  id="brunch"
+  title="Brunch & Savouries"
+  emoji="🍳"
+  description="Savory bites perfect for brunch gatherings or afternoon cravings."
+  products={productsData.brunch}
+/>
+
+<ProductSection
+  id="sauces"
+  title="Sauces & Add-Ons"
+  emoji="🥫"
+  description="Finish your meal with flavorful sauces and tasty extras."
+  products={productsData.sauces}
+/>
+
       </div>
 
        <CateringSection/>
