@@ -23,35 +23,35 @@ const Index = () => {
         <ProductSection
           id="baked-goods"
           title="Baked Goods"
-          emoji="🧁"
+          // emoji="🧁"
           products={productsData.bakedGoods}
         />
         
         <ProductSection
           id="snacks"
           title="Snacks & Crisps"
-          emoji="🍿"
+          // emoji="🍿"
           products={productsData.snacks}
         />
         
         <ProductSection
           id="pastries"
           title="Pastries"
-          emoji="🥐"
+          // emoji="🥐"
           products={productsData.pastries}
         />
         
         <ProductSection
           id="brunch"
           title="Brunch & Savouries"
-          emoji="🍳"
+          // emoji="🍳"
           products={productsData.brunch}
         />
         
         <ProductSection
           id="sauces"
           title="Sauces & Add-Ons"
-          emoji="🥫"
+          // emoji="🥫"
           products={productsData.sauces}
         />
       </div>

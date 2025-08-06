@@ -22,10 +22,15 @@ const MenuPreviewSlider = () => {
   return (
     <section className="py-12 bg-muted relative">
       <div className="container mx-auto px-4">
-        <h2 className="text-5xl md:text-6xl font-extrabold text-center mb-12 text-magnolia-purple leading-tight">
+    <div className="flex justify-center">
+  <h2 className="font-display text-3xl md:text-4xl font-bold text-magnolia-text text-center">
+    Explore Our Menu
+  </h2>
+</div>
 
-          Explore Our Menu
-        </h2>
+
+
+
         <div className="relative">
           {/* Custom Arrows */}
           <div
@@ -70,7 +75,7 @@ const MenuPreviewSlider = () => {
                     alt={item.title}
                     className="w-full h-40 object-cover rounded-md shadow-md transition duration-300 transform group-hover:scale-105 group-hover:shadow-xl border border-border"
                   />
-                  <p className="font-medium text-sm text-muted-foreground">{item.title}</p>
+                  <p className="font-display text-3xl md:text-4xl font-bold text-magnolia-text text-center">{item.title}</p>
                 </div>
               </SwiperSlide>
             ))}

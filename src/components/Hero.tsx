@@ -6,7 +6,7 @@ const slides = [
     image:
       "https://res.cloudinary.com/dspkz3qiq/image/upload/v1753975130/delicious-donuts-ai-generated_fnvwmb.png",
     title: "Delicious Donuts",
-    description: "Glazed, soft, and satisfying — the perfect sweet treat.",
+    description: "Glazed, soft, and satisfying  the perfect sweet treat.",
   },
   {
     image:
@@ -42,7 +42,7 @@ const slides = [
     image:
       "https://res.cloudinary.com/dspkz3qiq/image/upload/v1753974928/Yellow_z1i0mt.png",
     title: "Lemon Pancakes",
-    description: "Bright, fluffy and zesty — sunshine on your plate.",
+    description: "Bright, fluffy and zesty  sunshine on your plate.",
   },
   {
     image:

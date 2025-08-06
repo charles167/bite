@@ -11,13 +11,13 @@ const EventsSection = () => {
     {
       title: "Brunch Catering",
       description: "Delight your guests with a morning filled with fresh bakes and warm beverages.",
-      image: "https://i.pinimg.com/736x/ee/58/7f/ee587ff2032f081d9adbbbb9a2259dfb.jpg",
+      image: "https://i.pinimg.com/1200x/db/7d/d1/db7dd16fd14753bc637f72de26e3aaec.jpg",
       message: "Hello! I’d like to inquire about brunch catering.",
     },
     {
       title: "School Events",
       description: "Perfect treats for school parties, PTA meetings, and student celebrations.",
-      image: "https://i.pinimg.com/736x/fe/01/fa/fe01fa2a6b2e0b8fc7b239d1ae12b999.jpg",
+      image: "https://i.pinimg.com/1200x/f7/9a/7d/f79a7d82c34058c5f8a831a9d803a72d.jpg",
       message: "Hi! I’m planning a school event and need catering.",
     },
     {

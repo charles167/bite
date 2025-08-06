@@ -11,7 +11,7 @@ const CateringSection = () => {
   <p className="text-lg text-[#541A1A] max-w-xl mx-auto md:mx-0">
     Our catering, gifting and events team is ready to fill your event or
     celebration with a custom selection of our best creations. No
-    occasion is too large—or too small!
+    occasion is too large or too small!
   </p>
   <div className="pt-4">
     <a
