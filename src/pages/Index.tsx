@@ -23,7 +23,7 @@ const Index = () => {
        <ProductSection
   id="baked-goods"
   title="Baked Goods"
-  emoji="🧁"
+  // emoji="🧁"
   description="Freshly baked cookies, loaves, and muffins straight from the oven to you."
   products={productsData.bakedGoods}
 />
@@ -31,7 +31,7 @@ const Index = () => {
 <ProductSection
   id="snacks"
   title="Snacks & Crisps"
-  emoji="🍿"
+  // emoji="🍿"
   description="Crunchy, crispy, and totally irresistible  your snack cravings, sorted."
   products={productsData.snacks}
 />
@@ -39,7 +39,7 @@ const Index = () => {
 <ProductSection
   id="pastries"
   title="Pastries"
-  emoji="🥐"
+  // emoji="🥐"
   description="Layered, flaky, and buttery pastries crafted with skill and love."
   products={productsData.pastries}
 />
@@ -47,7 +47,7 @@ const Index = () => {
 <ProductSection
   id="brunch"
   title="Brunch & Savouries"
-  emoji="🍳"
+  // emoji="🍳"
   description="Savory bites perfect for brunch gatherings or afternoon cravings."
   products={productsData.brunch}
 />
